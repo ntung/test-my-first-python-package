@@ -1,0 +1,1 @@
+Install the package `pip install -i https://test.pypi.org/simple/ biomodels-restful-ws-tnguyenv==0.0.2` and test it.
